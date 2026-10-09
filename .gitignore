@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vercel/
+playwright-report/
+test-results/
+coverage/
+*.local
+.env
+.env.*
+!.env.example
+
+.impeccable/review/
+graphify-out/

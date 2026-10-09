@@ -1,0 +1,12 @@
+Use case: photorealistic-natural
+Asset type: secondary editorial image for a premium aesthetic clinic demonstration landing page
+Primary request: a close, calm detail of a consultation moment in an aesthetic clinic, showing two hands resting near an open blank notebook and a cobalt glazed ceramic cup on a stone table; no faces, no clinical treatment
+Scene/backdrop: intimate consultation table in a sophisticated clinic, chalk plaster wall, warm ivory linen sleeve, cobalt ceramic cup, blank cream paper, a single small glass of water
+Style/medium: editorial lifestyle photography, tactile and understated, high-end Brazilian design magazine
+Composition/framing: horizontal 3:2 composition with generous negative space, notebook and hands in lower right, ceramic cup near center, no readable writing
+Lighting/mood: soft window light, thoughtful, safe, unhurried, personal
+Color palette: chalk, sand, ivory, deep cobalt, muted copper
+Materials/textures: uncoated paper, honed stone, glazed ceramic, linen, soft skin texture
+Text (verbatim): none
+Constraints: no logo, no text, no watermark, no needles, no surgery, no before-and-after imagery, no medical promise, demonstrative concept image only
+Avoid: identifiable faces, staged handshake, generic spa stock photo, neon, plastic CGI, medical equipment, clutter
