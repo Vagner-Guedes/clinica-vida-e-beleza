@@ -20,17 +20,17 @@ export const journey = [
 ]
 
 export const treatmentAreas = [
-  { title: 'Facial', text: 'Tratamentos faciais e protocolos personalizados aparecem como parte central da comunicação da clínica.', cue: 'Cuidado para a pele', image: '/assets/vida-beleza-facial.png' },
-  { title: 'Corporal', text: 'Uma frente de cuidado corporal para conversar sobre contorno, firmeza e autoestima com contexto.', cue: 'Seu corpo, sua escolha', image: '/assets/vida-beleza-corporal.png' },
-  { title: 'Capilar', text: 'A área capilar também está presente na apresentação pública da Vida e Beleza.', cue: 'Cuidado em cada detalhe', image: '/assets/vida-beleza-capilar.png' },
-  { title: 'Criolipólise', text: 'Especialidade citada na bio do Instagram; indicação e protocolo devem ser confirmados na avaliação.', cue: 'Especialidade do perfil', image: '/assets/vida-beleza-corporal.png' },
+  { title: 'Facial', text: 'Tratamentos faciais e protocolos personalizados aparecem como parte central da comunicação da clínica.', cue: 'Cuidado para a pele', image: '/assets/vida-beleza-facial.webp' },
+  { title: 'Corporal', text: 'Uma frente de cuidado corporal para conversar sobre contorno, firmeza e autoestima com contexto.', cue: 'Seu corpo, sua escolha', image: '/assets/vida-beleza-corporal.webp' },
+  { title: 'Capilar', text: 'A área capilar também está presente na apresentação pública da Vida e Beleza.', cue: 'Cuidado em cada detalhe', image: '/assets/vida-beleza-capilar.webp' },
+  { title: 'Criolipólise', text: 'Especialidade citada na bio do Instagram; indicação e protocolo devem ser confirmados na avaliação.', cue: 'Especialidade do perfil', image: '/assets/vida-beleza-corporal.webp' },
 ]
 
 export const galleryConcepts = [
-  { id: 'facial', title: 'Cuidado facial', meta: 'Imagem demonstrativa · facial', text: 'Uma referência visual para apresentar tratamentos faciais com linguagem elegante e natural.', image: '/assets/vida-beleza-facial.png', alt: 'Imagem demonstrativa de uma consulta de cuidado facial' },
-  { id: 'corporal', title: 'Cuidado corporal', meta: 'Imagem demonstrativa · corporal', text: 'Uma composição para falar de cuidado corporal sem transformar estética em promessa de resultado.', image: '/assets/vida-beleza-corporal.png', alt: 'Imagem demonstrativa de uma sala de cuidado corporal' },
-  { id: 'capilar', title: 'Cuidado capilar', meta: 'Imagem demonstrativa · capilar', text: 'Uma direção visual para a frente capilar apresentada no perfil público da clínica.', image: '/assets/vida-beleza-capilar.png', alt: 'Imagem demonstrativa de uma conversa sobre cuidado capilar' },
-  { id: 'conversation', title: 'A sua avaliação', meta: 'Imagem demonstrativa · conversa', text: 'O primeiro contato aparece como um espaço de escuta, não como um catálogo pronto.', image: '/assets/vida-beleza-consultation.png', alt: 'Imagem demonstrativa de uma conversa com caderno e cerâmica' },
+  { id: 'facial', title: 'Cuidado facial', meta: 'Imagem demonstrativa · facial', text: 'Uma referência visual para apresentar tratamentos faciais com linguagem elegante e natural.', image: '/assets/vida-beleza-facial.webp', alt: 'Imagem demonstrativa de uma consulta de cuidado facial' },
+  { id: 'corporal', title: 'Cuidado corporal', meta: 'Imagem demonstrativa · corporal', text: 'Uma composição para falar de cuidado corporal sem transformar estética em promessa de resultado.', image: '/assets/vida-beleza-corporal.webp', alt: 'Imagem demonstrativa de uma sala de cuidado corporal' },
+  { id: 'capilar', title: 'Cuidado capilar', meta: 'Imagem demonstrativa · capilar', text: 'Uma direção visual para a frente capilar apresentada no perfil público da clínica.', image: '/assets/vida-beleza-capilar.webp', alt: 'Imagem demonstrativa de uma conversa sobre cuidado capilar' },
+  { id: 'conversation', title: 'A sua avaliação', meta: 'Imagem demonstrativa · conversa', text: 'O primeiro contato aparece como um espaço de escuta, não como um catálogo pronto.', image: '/assets/vida-beleza-consultation.webp', alt: 'Imagem demonstrativa de uma conversa com caderno e cerâmica' },
 ]
 
 export const faqs = [

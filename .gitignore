@@ -21,4 +21,7 @@ proposta-comercial/rendered-v2/
 proposta-comercial/proposta-comercial-vida-e-beleza.pdf
 proposta-comercial/proposta-comercial-vida-e-beleza.docx
 public/proposta-comercial/
+public/assets/*.png
+public/assets/*.jpg
+public/assets/*.jpeg
 proposta-comercial/cover-crop.png
