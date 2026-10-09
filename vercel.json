@@ -1,7 +1,6 @@
 {
   "rewrites": [
     { "source": "/links", "destination": "/index.html" },
-    { "source": "/privacidade", "destination": "/index.html" },
-    { "source": "/proposta", "destination": "/index.html" }
+    { "source": "/privacidade", "destination": "/index.html" }
   ]
 }

@@ -507,12 +507,8 @@ def build_document():
     add_body(doc, "Esta proposta ajuda a Vida e Beleza a oferecer essa segurança desde o primeiro contato, com uma presença digital mais clara, mais próxima e preparada para transformar atenção em conversa.", after=12)
     add_body(doc, "Para avançar, a clínica aprova a direção e envia os materiais oficiais. Em seguida, fazemos a personalização final, a revisão da política de privacidade e a publicação.", after=22)
     add_accent_line(doc, width=2.25)
-    add_heading(doc, "Solicitar uma avaliação", 2, before=20, after=6)
-    add_body(doc, "WhatsApp: +55 71 99943-1212", after=3)
-    add_body(doc, "Ed. TK Tower - Av. Prof. Magalhães Neto, 1856 - Sala 1408 - Pituba, Salvador - BA.", after=3)
-    add_body(doc, "Instagram: @vidaebelezaesteticaavancada", after=14)
     p = doc.add_paragraph()
-    set_para(p, before=20, after=0)
+    set_para(p, before=26, after=0)
     set_run_font(p.add_run("Demonstração comercial não oficial · valores, prazos, conteúdos e condições sujeitos à aprovação."), "Arial", 8.5, MUTED, italic=True)
 
     OUT.mkdir(parents=True, exist_ok=True)

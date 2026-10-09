@@ -7,7 +7,6 @@ Landing page demonstrativa para a Clínica Vida e Beleza, em Pituba, Salvador.
 - `/` — apresentação completa
 - `/links` — página de links
 - `/privacidade` — política-base de privacidade, cookies e LGPD
-- `/proposta` — protótipo de proposta comercial com downloads em PDF e DOCX
 
 ## Desenvolvimento
 
