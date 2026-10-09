@@ -29,6 +29,7 @@ Uma clínica apresentada como no próprio Instagram público: fundo quase preto,
 - Facial, corporal, capilar e criolipólise aparecem como áreas/protocolo citados no perfil público; a página mantém a indicação de confirmar protocolos e condições.
 - A seção de endereço usa uma planta visual demonstrativa e mantém o link externo para confirmação da rota no Google Maps.
 - `/links` concentra WhatsApp, rota, tratamentos, Instagram e a frase de experiência usada na bio pública.
+- `/proposta` amplia a mesma direção para uma leitura comercial editorial, com capa visual, escopo, LGPD, próximos passos e downloads em PDF/DOCX.
 
 ## Motion
 
@@ -55,4 +56,5 @@ Uma clínica apresentada como no próprio Instagram público: fundo quase preto,
 
 - O aviso de cookies usa a mesma superfície creme, borda dourada e ação preta da marca, sem bloquear a leitura da página.
 - A política de privacidade e cookies fica acessível pelo rodapé, pela página de links e por `/privacidade`.
+- A proposta comercial também explicita a necessidade de validação da política, do controlador, dos cookies e dos tratamentos antes da publicação oficial.
 - O texto é explicitamente tratado como modelo para aprovação; qualquer analytics, pixel, formulário ou integração nova exige revisão do conteúdo e do consentimento.

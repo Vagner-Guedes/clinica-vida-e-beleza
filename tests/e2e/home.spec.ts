@@ -39,3 +39,11 @@ test('cookie consent and privacy page are available', async ({ page }) => {
   await expect(page.getByRole('heading', { name: /Cookies e armazenamento local/i })).toBeVisible()
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
 })
+
+test('commercial proposal exposes PDF and editable downloads', async ({ page }) => {
+  await page.goto('/proposta')
+  await expect(page.getByRole('heading', { name: /Proposta comercial para a Clínica Vida e Beleza/i })).toBeVisible()
+  await expect(page.getByRole('link', { name: /Baixar PDF/i })).toHaveAttribute('href', /proposta-comercial-vida-e-beleza\.pdf/)
+  await expect(page.getByRole('link', { name: /Baixar editável/i })).toHaveAttribute('href', /proposta-comercial-vida-e-beleza\.docx/)
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true)
+})

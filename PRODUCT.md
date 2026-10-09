@@ -30,6 +30,7 @@ The clinic is located at Ed. TK Tower, Av. Prof. Magalhães Neto, 1856, sala 140
 
 - The primary conversion is a pre-filled WhatsApp conversation requesting an evaluation.
 - The site must also provide a link page at `/links`.
+- The project includes a commercial proposal prototype at `/proposta`, with PDF and editable DOCX downloads following the same visual direction.
 - The page is a local commercial demonstration and must not be published without authorization.
 - LGPD, privacy and cookie transparency are part of the minimum scope before publication; the final text, controller and channels must be approved by the clinic and reviewed legally when applicable.
 - Do not invent procedures, testimonials, metrics, certifications, logos, clinical outcomes or team credentials.
