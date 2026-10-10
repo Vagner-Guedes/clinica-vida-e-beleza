@@ -1,5 +1,9 @@
 # Landing Page Foundation
 
+Este cliente segue o padrão canônico em [../LANDING_PAGE_FOUNDATION.md](../LANDING_PAGE_FOUNDATION.md).
+
+As seções restantes registram apenas contexto específico do cliente e não podem contradizer o padrão canônico.
+
 Base operacional para criar landing pages comerciais com identidade forte, motion de alto nível e validação objetiva.
 
 ## 1. Padrão tecnológico
