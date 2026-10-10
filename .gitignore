@@ -25,3 +25,5 @@ public/assets/*.png
 public/assets/*.jpg
 public/assets/*.jpeg
 proposta-comercial/cover-crop.png
+
+.vercel
